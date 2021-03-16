@@ -2,7 +2,15 @@
   "name": "react-redux-i18n",
   "version": "1.0.0",
   "description": "React Redux i18n",
-  "keywords": ["jam3", "i18n", "i18next", "react-i18next", "create-react-app", "react", "redux"],
+  "keywords": [
+    "jam3",
+    "i18n",
+    "i18next",
+    "react-i18next",
+    "create-react-app",
+    "react",
+    "redux"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "history": "4.7.2",
@@ -40,5 +48,10 @@
     "url": "https://github.com/Jam3/react-redux-i18n/issues"
   },
   "homepage": "https://github.com/Jam3/react-redux-i18n#readme",
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
